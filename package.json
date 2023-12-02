@@ -1,5 +1,5 @@
 {
-  "name": "magic-dropdown-button",
+  "name": "react-magic-dropdown-button",
   "version": "1.0.0",
   "description": "A magic react dropdown button component that allows anyone to change the dropdown configuration",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grandSeaFox/total-dime.git"
+    "url": "git+https://github.com/grandSeaFox/react-magic-dropdown-button.git"
   },
   "keywords": [
     "magic",
@@ -19,9 +19,9 @@
   "author": "grandSeaFox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grandSeaFox/total-dime/issues"
+    "url": "https://github.com/grandSeaFox/react-magic-dropdown-button/issues"
   },
-  "homepage": "https://github.com/grandSeaFox/total-dime#readme",
+  "homepage": "https://github.com/grandSeaFox/react-magic-dropdown-button#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.4",
     "@babel/core": "^7.23.5",
