@@ -1,0 +1,37 @@
+{
+  "name": "magic-dropdown-button",
+  "version": "1.0.0",
+  "description": "A magic react dropdown button component that allows anyone to change the dropdown configuration",
+  "main": "index.js",
+  "scripts": {
+    "build": ".\\node_modules\\.bin\\babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandSeaFox/total-dime.git"
+  },
+  "keywords": [
+    "magic",
+    "dropdown",
+    "button"
+  ],
+  "author": "grandSeaFox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grandSeaFox/total-dime/issues"
+  },
+  "homepage": "https://github.com/grandSeaFox/total-dime#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-react": "^7.23.3"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
